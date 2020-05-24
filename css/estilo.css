@@ -1,0 +1,17 @@
+/*********************************
+Desenvolvedor: Thales de Azevedo Cardoso;
+Data: 24/05/2020  18:20;
+*********************************/
+
+
+/*************** ESTILO GERAL ***************/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #fff;
+}
